@@ -76,11 +76,11 @@
 <!-- [video] -->
 
 **1.** Download the parts of `flex.rar` available at:
-> [Apache Flex (click here)](...)
+> You can find them at [Apache Flex (click here)](./flex) (it is easier if you just download the whole repository)
 
 **2.** Go to `C:\Program Files\Adobe\Adobe Flash Builder 4.6\sdks`, create a folder and name it as **4.16.1**
 
-**3.** Extract the files within this folder
+**3.** Extract the parts of `flex.rar` within this folder using the password **APACHEFLEXv4.16.1**
 
 **4.** Execute the **Adobe Flex Builder**
 
