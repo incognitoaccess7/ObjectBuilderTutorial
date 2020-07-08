@@ -19,7 +19,7 @@ Summary
 
 * [AFB](#afb)
 * [Apache Flex](#apache-flex)
-* [How to compile](#how-to-compile)
+* [Object Builder](#object-builder)
 * [Extra](#extra)
 
 ---
