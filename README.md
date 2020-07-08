@@ -2,7 +2,25 @@
 
 **Object Builder** is an editor for creating graphic objects for OTClient. You can edit or add new items, outfits, effects or missiles to your client.
 
-## Summary
+What is Object Builder?
+---
+
+Object Builder is an editor for creating graphic objects for [OTClient](https://github.com/edubart/otclient). You can edit or add new items, outfits, effects or missiles to your client.
+
+Some features:
+
+* It's faster to load or compile your projects.
+* Import or export your objects as sprite sheet.
+* Support for transparent sprites.
+* You're able to cut the imported images.
+
+Supported client versions:
+---
+
+* 7.10 - 10.56
+
+Summary
+---
 
 * [AFB](#afb)
 * [Apache Flex](#apache-flex)
