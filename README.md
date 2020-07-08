@@ -12,6 +12,13 @@
 
 ### AFB
 
+<p align="center">
+  <br>
+  <img src="./assets/img/logo_afb.jpg"/>
+    <h5 align="center"><i>Adobe Flash Builder 4.6</i></h5>
+  <br>
+</p>
+
 <!-- [video] -->
 
 **1.** Download the parts of `afb.rar` file
@@ -58,7 +65,13 @@
 
 
 ### Apache Flex
-> Flex 4.16.1 + Flash Player 30.0 + AIR SDK 30.0
+
+<p align="center">
+  <br>
+  <img src="./assets/img/logo_apacheflex.jpg"/>
+    <h5 align="center"><i>Flex 4.16.1 + Flash Player 30.0 + AIR SDK 30.0</i></h5>
+  <br>
+</p>
 
 <!-- [video] -->
 
