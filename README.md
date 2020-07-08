@@ -35,16 +35,16 @@ Summary
   <br>
 </p>
 
-### AFB
-
-*How to install*
-
 <p align="center">
   <br>
   <img src="./assets/img/logo_afb.png"/>
   <h5 align="center"><i>Adobe Flash Builder 4.6</i></h5>
   <br>
 </p>
+
+### AFB
+
+*How to install*
 
 <!-- [video] -->
 
@@ -93,16 +93,16 @@ Summary
 
 
 
-### Apache Flex
-
-*How to configure into Adobe Flash Builder*
-
 <p align="center">
   <br>
   <img src="./assets/img/logo_apacheflex.png"/>
   <h5 align="center"><i>Flex 4.16.1 + Flash Player 30.0 + AIR SDK 30.0</i></h5>
   <br>
 </p>
+
+### Apache Flex
+
+*How to configure into Adobe Flash Builder*
 
 <!-- [video] -->
 
@@ -133,16 +133,16 @@ Summary
 
 
 
-### Object Builder
-
-*How to compile*
-
 <p align="center">
   <br>
   <img src="./assets/img/logo_objectbuilder.png"/>
   <h5 align="center"><i>Object Builder</i></h5>
   <br>
 </p>
+
+### Object Builder
+
+*How to compile*
 
 [![how_to_compile_the_object_builder](./assets/img/video_objectbuilder.png)](http://www.youtube.com/watch?v=MrmLxfKuXU4&list=PLtcK2PuB_49ijcHnqJCXAQr6jGsISO-IF "3. How to compile the Object Builder")
 
