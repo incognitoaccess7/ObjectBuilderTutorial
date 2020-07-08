@@ -14,11 +14,6 @@ Some features:
 * Support for transparent sprites.
 * You're able to cut the imported images.
 
-Supported client versions:
----
-
-* 7.10 - 10.56
-
 Summary
 ---
 
