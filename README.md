@@ -14,7 +14,7 @@
 
 <p align="center">
   <br>
-  <img src="./assets/img/logo_afb.jpg"/>
+  <img src="./assets/img/logo_afb.png"/>
     <h5 align="center"><i>Adobe Flash Builder 4.6</i></h5>
   <br>
 </p>
@@ -68,7 +68,7 @@
 
 <p align="center">
   <br>
-  <img src="./assets/img/logo_apacheflex.jpg"/>
+  <img src="./assets/img/logo_apacheflex.png"/>
     <h5 align="center"><i>Flex 4.16.1 + Flash Player 30.0 + AIR SDK 30.0</i></h5>
   <br>
 </p>
