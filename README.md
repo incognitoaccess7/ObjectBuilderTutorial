@@ -24,7 +24,7 @@ Summary
 
 * [AFB](#afb)
 * [Apache Flex](#apache-flex)
-<!-- * [How to compile](#how-to-compile) -->
+* [How to compile](#how-to-compile)
 * [Extra](#extra)
 
 ---
@@ -37,7 +37,7 @@ Summary
 <p align="center">
   <br>
   <img src="./assets/img/logo_afb.png"/>
-    <h5 align="center"><i>Adobe Flash Builder 4.6</i></h5>
+  <h5 align="center"><i>Adobe Flash Builder 4.6</i></h5>
   <br>
 </p>
 
@@ -93,7 +93,7 @@ Summary
 <p align="center">
   <br>
   <img src="./assets/img/logo_apacheflex.png"/>
-    <h5 align="center"><i>Flex 4.16.1 + Flash Player 30.0 + AIR SDK 30.0</i></h5>
+  <h5 align="center"><i>Flex 4.16.1 + Flash Player 30.0 + AIR SDK 30.0</i></h5>
   <br>
 </p>
 
@@ -126,9 +126,14 @@ Summary
 
 
 
-<!-- ### How to compile -->
+### How to compile
 
-<!-- [video] -->
+<p align="center">
+  <br>
+  <img src="./assets/img/video_objectbuilder.png"/>
+  <a target="_blank" href="//www.youtube.com/watch?v=MrmLxfKuXU4&list=PLtcK2PuB_49ijcHnqJCXAQr6jGsISO-IF"><h5 align="center"><i>Tutorial</i></h5></a>
+  <br>
+</p>
 
 
 
