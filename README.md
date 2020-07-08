@@ -6,7 +6,7 @@
 
 * [AFB](#afb)
 * [Apache Flex](#apache-flex)
-* [How to compile](#how-to-compile)
+<!-- * [How to compile](#how-to-compile) -->
 
 ---
 
@@ -14,45 +14,45 @@
 
 <!-- [video] -->
 
-- Download the parts of `afb.rar` file
-> You can find them at [AFB (click here)](./afb)
+**1.** Download the parts of `afb.rar` file
+> You can find them at [AFB (click here)](./afb) (it is easier if you just download the whole repository)
 
-- Go to Windows 10 security configurations to disable the **Real-time protection** temporarily:
+**2.** Go to Windows 10 security configurations to disable the **Real-time protection** temporarily:
 ```
-1. `Windows Start Menu`
-2. `Configurations`
-3. `Update & Security`
-4. `Windows Security`
-5. `Virus & threat protection`
-6. At `Virus & threat protection settings`, choose `Manage settings`
-7. At `Real-time protection`, disable it to be able to see the extracted keygen
+  1. `Windows Start Menu`
+  2. `Configurations`
+  3. `Update & Security`
+  4. `Windows Security`
+  5. `Virus & threat protection`
+  6. At `Virus & threat protection settings`, choose `Manage settings`
+  7. At `Real-time protection`, disable it to be able to see the extracted keygen
 ```
 > The Windows will remove the keygen file if this option is enabled
 
-- Extract the parts of `afb.rar` file using the password **AFBv4.6_premium_2011**
+**3.** Extract the parts of `afb.rar` file using the password **AFBv4.6_premium_2011**
 
-- Update your **Flash Player** (it avoids issues with the *Apache Flex SDK*) at:
+**4.** Update your **Flash Player** (it avoids issues with the *Apache Flex SDK*) at:
 > [Flash Player (click here)](https://get.adobe.com/flashplayer/)
 
-- Open your `notepad.exe` as **Administrator**
+**5.** Open your `notepad.exe` as **Administrator**
 
-- Open the file `C:\Windows\System32\drivers\etc\hosts` through this notepad (`File > Open...`)
+**6.** Open the file `C:\Windows\System32\drivers\etc\hosts` through this notepad (`File > Open...`)
 
-- Add, at the bottom of the file, the following line:
+**7.** Add, at the bottom of the file, the following line:
 > **127.0.0.1 activate.adobe.com**
 
-- Execute the file `afb/Crack/keygen.exe` as **Administrator**
+**8.** Execute the file `afb/Crack/keygen.exe` as **Administrator**
 
-- Press the button **Patch Hosts File**
+**9.** Press the button **Patch Hosts File**
 > If the error *file already patched.* shows up, ignore it by pressing **OK**
 
-- Choose the option **Adobe Flash Builder v4.5x**
+**10.** Choose the option **Adobe Flash Builder v4.5x**
 
-- After generate the serial automatically, copy that
+**11.** After generate the serial automatically, copy that
 
-- Enable the Windows **Real-time protection**
+**12.** Enable the Windows **Real-time protection** (*take a look at step 2 for it*)
 
-- Use the generated serial to install the program in the next steps
+**13.** Use the generated serial to install the program in the next steps
 > While installing it, you don't need to log in or register an Adobe account
 
 
@@ -62,28 +62,28 @@
 
 <!-- [video] -->
 
-- Download the parts of `flex.rar` available at:
+**1.** Download the parts of `flex.rar` available at:
 > [Apache Flex (click here)](...)
 
-- Go to `C:\Program Files\Adobe\Adobe Flash Builder 4.6\sdks`, create a folder and name it as **4.16.1**
+**2.** Go to `C:\Program Files\Adobe\Adobe Flash Builder 4.6\sdks`, create a folder and name it as **4.16.1**
 
-- Extract the files within this folder
+**3.** Extract the files within this folder
 
-- Execute the **Adobe Flex Builder**
+**4.** Execute the **Adobe Flex Builder**
 
-- Go to `Window > Preferences`
+**5.** Go to `Window > Preferences`
 
-- Then, go to `Flex Builder > Installed Flex SDKs`
+**6.** Then, go to `Flex Builder > Installed Flex SDKs`
 
-- Press **Add...**
+**7.** Press **Add...**
 
-- Press **Browse...**
+**8.** Press **Browse...**
 
-- Press **OK**
+**9.** Press **OK**
 
-- Select **Apache Flex 4.16 1 FP30.0 AIR30.0 en_US**
+**10.** Select **Adobe Flash Builder v4.5x**
 
-- Press **OK**
+**11.** Press **OK**
 
 
 
