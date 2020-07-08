@@ -1,6 +1,6 @@
 # Object Builder
 
-**Object Builder** is an editor for creating graphic objects for [OTClient](https://github.com/ottools/ObjectBuilder). You can edit or add new items, outfits, effects or missiles to your client.
+**Object Builder** is an editor for creating graphic objects for OTClient. You can edit or add new items, outfits, effects or missiles to your client.
 
 ## Summary
 
