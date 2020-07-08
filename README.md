@@ -1,6 +1,7 @@
 # Object Builder
 
 **Object Builder** is an editor for creating graphic objects for OTClient. You can edit or add new items, outfits, effects or missiles to your client.
+[Files Mirror (click here)](https://drive.google.com/drive/folders/12offTOjuCcwbN7UkXlHT8uemj8YKXOe9)
 
 ## Summary
 
@@ -23,6 +24,7 @@
 
 **1.** Download the parts of `afb.rar` file
 > You can find them at [AFB (click here)](./afb) (it is easier if you just download the whole repository)
+[AFB Parts Mirror (click here)](https://drive.google.com/drive/folders/1rZ5eGvAO2RaacCZh2hyoNdMiXgag-fsS)
 
 **2.** Go to Windows 10 security configurations to disable the **Real-time protection** temporarily:
 ```
@@ -77,6 +79,7 @@
 
 **1.** Download the parts of `flex.rar` available at:
 > You can find them at [Apache Flex (click here)](./flex) (it is easier if you just download the whole repository)
+[Apache Flex Parts Mirror (click here)](https://drive.google.com/drive/folders/1gyi-kdn-4m2aeELaYPHs-vKra0xoiPPR)
 
 **2.** Go to `C:\Program Files\Adobe\Adobe Flash Builder 4.6\sdks`, create a folder and name it as **4.16.1**
 
