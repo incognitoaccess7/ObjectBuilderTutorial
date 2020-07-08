@@ -41,7 +41,7 @@ Summary
 
 *How to install*
 
-<!-- [video] -->
+[![how_to_install_the_adobe_flash_builder](./assets/img/video_afb.png)](https://www.youtube.com/watch?v=lo48i9tTjM4&list=PLtcK2PuB_49ijcHnqJCXAQr6jGsISO-IF "1. How to install the Adobe Flash Builder")
 
 **1.** Download the parts of `afb.rar` file
 > You can find them at [AFB (click here)](./afb) (it is easier if you just download the whole repository)
@@ -99,7 +99,7 @@ Summary
 
 *How to configure into Adobe Flash Builder*
 
-<!-- [video] -->
+[![how_to_configure_the_apache_flex_sdk](./assets/img/video_flex.png)](https://www.youtube.com/watch?v=fgyodts9elc&list=PLtcK2PuB_49ijcHnqJCXAQr6jGsISO-IF "2. How to configure the Apache Flex SDK")
 
 **1.** Download the parts of `flex.rar` available at:
 > You can find them at [Apache Flex (click here)](./flex) (it is easier if you just download the whole repository)
