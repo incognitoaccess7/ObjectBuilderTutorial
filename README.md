@@ -17,9 +17,9 @@ Some features:
 Summary
 ---
 
-* [AFB](#afb)
-* [Apache Flex](#apache-flex)
-* [Object Builder](#object-builder)
+* [The Adobe Flash Builder](#the-adobe-flash-builder)
+* [The Apache Flex SDK](#the-apache-flex-sdk)
+* [The Object Builder](#the-object-builder)
 * [Extra](#extra)
 
 ---
@@ -37,7 +37,7 @@ Summary
   <br>
 </p>
 
-### AFB
+### The Adobe Flash Builder
 
 *How to install*
 
@@ -95,7 +95,7 @@ Summary
   <br>
 </p>
 
-### Apache Flex
+### The Apache Flex SDK
 
 *How to configure into Adobe Flash Builder*
 
@@ -135,7 +135,7 @@ Summary
   <br>
 </p>
 
-### Object Builder
+### The Object Builder
 
 *How to compile*
 
