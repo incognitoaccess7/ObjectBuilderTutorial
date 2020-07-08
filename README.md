@@ -1,7 +1,6 @@
 # Object Builder
 
 **Object Builder** is an editor for creating graphic objects for OTClient. You can edit or add new items, outfits, effects or missiles to your client.
-> [Files Mirror (click here)](https://drive.google.com/drive/folders/12offTOjuCcwbN7UkXlHT8uemj8YKXOe9)
 
 What is Object Builder?
 ---
@@ -26,6 +25,7 @@ Summary
 * [AFB](#afb)
 * [Apache Flex](#apache-flex)
 <!-- * [How to compile](#how-to-compile) -->
+* [Extra](#extra)
 
 ---
 
@@ -129,3 +129,11 @@ Summary
 <!-- ### How to compile -->
 
 <!-- [video] -->
+
+
+
+### Extra
+
+> [Files Mirror (click here)](https://drive.google.com/drive/folders/12offTOjuCcwbN7UkXlHT8uemj8YKXOe9)
+
+> [Video Tutorials (click here)](https://www.youtube.com/playlist?list=PLtcK2PuB_49ijcHnqJCXAQr6jGsISO-IF)
