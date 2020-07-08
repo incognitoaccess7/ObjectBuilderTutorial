@@ -2,6 +2,15 @@
 
 **Object Builder** is an editor for creating graphic objects for OTClient. You can edit or add new items, outfits, effects or missiles to your client.
 
+<p align="center">
+  <br>
+  <img src="./assets/img/logo_objectbuilder.png"/>
+  <br>
+  <img src="./assets/img/app_objectbuilder.png"/>
+  <h5 align="center"><i>Object Builder application</i></h5>
+  <br>
+</p>
+
 What is Object Builder?
 ---
 
@@ -17,6 +26,7 @@ Some features:
 Summary
 ---
 
+* [Minimal Requirements](minimal-requirements)
 * [The Adobe Flash Builder](#the-adobe-flash-builder)
 * [The Apache Flex SDK](#the-apache-flex-sdk)
 * [The Object Builder](#the-object-builder)
@@ -29,6 +39,14 @@ Summary
   <h2 align="center"><i>Tutorial</i></h2>
   <br>
 </p>
+
+
+
+### Minimal Requirements
+
+* Install the **Adobe AIR**, to be able to execute the application, at [Adobe AIR (click here)](https://get.adobe.com/br/air/)
+
+
 
 <p align="center">
   <br>
@@ -43,8 +61,8 @@ Summary
 
 [![how_to_install_the_adobe_flash_builder](./assets/img/video_afb.png)](https://www.youtube.com/watch?v=lo48i9tTjM4&list=PLtcK2PuB_49ijcHnqJCXAQr6jGsISO-IF "1. How to install the Adobe Flash Builder")
 
-**1.** Download the parts of `afb.rar` file
-> You can find them at [AFB (click here)](./afb) (it is easier if you just download the whole repository)
+**1.** Download the parts of `afb.rar`:
+> You can find them at [AFB (click here)](./afb), or you can simply just download this whole repository at [ObjectBuilderTutorial-master.zip (click here)](https://github.com/incognitoaccess7/ObjectBuilderTutorial/archive/master.zip)
 
 > [AFB Parts Mirror (click here)](https://drive.google.com/drive/folders/1rZ5eGvAO2RaacCZh2hyoNdMiXgag-fsS)
 
@@ -101,8 +119,8 @@ Summary
 
 [![how_to_configure_the_apache_flex_sdk](./assets/img/video_flex.png)](https://www.youtube.com/watch?v=fgyodts9elc&list=PLtcK2PuB_49ijcHnqJCXAQr6jGsISO-IF "2. How to configure the Apache Flex SDK")
 
-**1.** Download the parts of `flex.rar` available at:
-> You can find them at [Apache Flex (click here)](./flex) (it is easier if you just download the whole repository)
+**1.** Download the parts of `flex.rar`:
+> You can find them at [Apache Flex (click here)](./flex), or you can simply just download this whole repository at [ObjectBuilderTutorial-master.zip (click here)](https://github.com/incognitoaccess7/ObjectBuilderTutorial/archive/master.zip)
 
 > [Apache Flex Parts Mirror (click here)](https://drive.google.com/drive/folders/1gyi-kdn-4m2aeELaYPHs-vKra0xoiPPR)
 
@@ -140,6 +158,12 @@ Summary
 *How to compile*
 
 [![how_to_compile_the_object_builder](./assets/img/video_objectbuilder.png)](http://www.youtube.com/watch?v=MrmLxfKuXU4&list=PLtcK2PuB_49ijcHnqJCXAQr6jGsISO-IF "3. How to compile the Object Builder")
+
+
+**1.** Download the files of `Object Builder`:
+> You can find them at [Object Builder (click here)](https://github.com/ottools/ObjectBuilder), or you can simply just download the whole `ObjectBuilder` repository at [ObjectBuilder-master.zip (click here to download)](https://github.com/ottools/ObjectBuilder/archive/master.zip)
+
+> **Note**: *This part of the tutorial is under development, but the video is already done. Then watch the video tutorial instead.*
 
 
 
