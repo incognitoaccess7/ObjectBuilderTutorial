@@ -29,10 +29,15 @@ Summary
 
 ---
 
-*Tutorial*
----
+<p align="center">
+  <br>
+  <h2 align="center"><i>Tutorial</i></h2>
+  <br>
+</p>
 
 ### AFB
+
+*How to install*
 
 <p align="center">
   <br>
@@ -90,6 +95,8 @@ Summary
 
 ### Apache Flex
 
+*How to configure into Adobe Flash Builder*
+
 <p align="center">
   <br>
   <img src="./assets/img/logo_apacheflex.png"/>
@@ -126,14 +133,18 @@ Summary
 
 
 
-### How to compile
+### Object Builder
+
+*How to compile*
 
 <p align="center">
   <br>
-  <img src="./assets/img/video_objectbuilder.png"/>
-  <a target="_blank" href="//www.youtube.com/watch?v=MrmLxfKuXU4&list=PLtcK2PuB_49ijcHnqJCXAQr6jGsISO-IF"><h5 align="center"><i>Tutorial</i></h5></a>
+  <img src="./assets/img/logo_objectbuilder.png"/>
+  <h5 align="center"><i>Object Builder</i></h5>
   <br>
 </p>
+
+[![how_to_compile_the_object_builder](./assets/img/video_objectbuilder.png)](http://www.youtube.com/watch?v=MrmLxfKuXU4&list=PLtcK2PuB_49ijcHnqJCXAQr6jGsISO-IF "3. How to compile the Object Builder")
 
 
 
