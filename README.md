@@ -171,4 +171,4 @@ Summary
 
 > [Files Mirror (click here)](https://drive.google.com/drive/folders/12offTOjuCcwbN7UkXlHT8uemj8YKXOe9)
 
-> [Video Tutorials (click here)](https://www.youtube.com/playlist?list=PLtcK2PuB_49ijcHnqJCXAQr6jGsISO-IF)
+> [Video Tutorials Playlist (click here)](https://www.youtube.com/playlist?list=PLtcK2PuB_49ijcHnqJCXAQr6jGsISO-IF)
