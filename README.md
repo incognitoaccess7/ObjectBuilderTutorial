@@ -94,7 +94,7 @@
 
 **9.** Press **OK**
 
-**10.** Select **Adobe Flash Builder v4.5x**
+**10.** Select **Apache Flex 4.16 1 FP30.0 AIR30.0 en_US**
 
 **11.** Press **OK**
 
