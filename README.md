@@ -26,7 +26,7 @@ Some features:
 Summary
 ---
 
-* [Minimal Requirements](minimal-requirements)
+* [Minimal Requirements](#minimal-requirements)
 * [The Adobe Flash Builder](#the-adobe-flash-builder)
 * [The Apache Flex SDK](#the-apache-flex-sdk)
 * [The Object Builder](#the-object-builder)
