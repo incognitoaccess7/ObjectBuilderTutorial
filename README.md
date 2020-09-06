@@ -165,9 +165,9 @@ Summary
 
 > **Note**: *This part of the tutorial is under development, but the video is already done. Then watch the video tutorial instead.*
 
-**2.** Go to `Project > Build All`. It will build the `ObjectBuilderWorker.swf`.
+**2.** Go to `Project > Build All`. It will build the `objectbuilder/bin-debug/ObjectBuilderWorker.swf`.
 
-**3.** Copy the `ObjectBuilderWorker.swf` and paste it into `objectbuilder/workerswfs/`.
+**3.** Copy the `ObjectBuilderWorker.swf` and paste it into `objectbuilder/workerswfs/` (should be `objectbuilder/workerswfs/ObjectBuilderWorker.swf`).
 
 **4.** Go to `Project > Export Release Build...` and follow as the video teachs.
 
